@@ -1,0 +1,35 @@
+.border{
+    border: 2px solid green;
+    margin: 15px;
+    border-radius: 20px;
+    padding: 15px;
+}
+.mark-visited{
+    background-color: aquamarine;
+    color: black;
+}
+.going{
+    font-weight: bold;
+    color: white;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+    
+}
+.width{
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.text-border{
+    border: 2px dashed white;
+    border-radius: 15px;
+    padding: 10px;
+}
+.add-flags{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
